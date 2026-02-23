@@ -1,2 +1,7 @@
 how to install and setup jenkin in ubuntu 
 first create vm instance in compute and then install default.jdk
+
+sudo apt update 
+sudo -i
+sudo apt install default.jdk
+
